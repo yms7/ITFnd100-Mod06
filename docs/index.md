@@ -6,5 +6,5 @@
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
-[ITFnd100-Mod06_Homework-Assignment06] (https://github.com/yms7/ntroToProg-Python-Mod06/blob/main/Assigment06_Yong_Son.py)
+[ITFnd100-Mod06_Homework-Assignment06](https://github.com/yms7/ntroToProg-Python-Mod06/blob/main/Assigment06_Yong_Son.py)
 
